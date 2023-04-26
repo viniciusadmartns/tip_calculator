@@ -14,8 +14,8 @@ h1 {
   position: absolute;
   height: 53px;
   width: 86px;
-  left: 677px;
-  top: 120px;
+  left: 1200px;
+  top: 230px;
   font-family: Space Mono;
   letter-spacing: 10px;
   color: #3d6666;
@@ -25,8 +25,8 @@ h1 {
   position: absolute;
   width: 920px;
   height: 481px;
-  left: 260px;
-  top: 304px;
+  left: 800px;
+  top: 400px;
   background: #ffffff;
   box-shadow: 0px 32px 43px rgba(79, 166, 175, 0.200735);
   border-radius: 25px;
