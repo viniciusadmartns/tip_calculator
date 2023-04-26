@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Poppins&family=Space+Mono:wght@700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #c5e4e7;
+}
+
+h1 {
+  position: absolute;
+  height: 53px;
+  width: 86px;
+  left: 677px;
+  top: 120px;
+  font-family: Space Mono;
+  letter-spacing: 10px;
+  color: #3d6666;
+}
+
+.container {
+  position: absolute;
+  width: 920px;
+  height: 481px;
+  left: 260px;
+  top: 304px;
+  background: #ffffff;
+  box-shadow: 0px 32px 43px rgba(79, 166, 175, 0.200735);
+  border-radius: 25px;
+}
+
+.left-column {
+  position: absolute;
+  width: 379px;
+  height: 388px;
+  left: 60px;
+  top: 55px;
+}
+
+.left-column p {
+  color: #5e7a7d;
+  font-family: Space Mono;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin: 13px;
+}
+
+.left-column input {
+  height: 48px;
+  width: 379px;
+  left: 0px;
+  top: 0px;
+  border-radius: 5px;
+  background: #f3f9fa;
+  border: none;
+}
+
+.left-column button {
+  margin-bottom: 10px;
+  height: 48px;
+  width: 117px;
+  left: 0px;
+  top: 0px;
+  background: #00474b;
+  border-radius: 5px;
+  font-family: "Space Mono";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.right-column {
+  position: absolute;
+  width: 379px;
+  height: 388px;
+  left: 500px;
+  top: 45px;
+  background: #00474b;
+  border-radius: 15px;
+}
+span {
+  position: relative;
+  height: 71px;
+  width: 172px;
+  left: 180px;
+  top: 25px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 71px;
+  text-align: right;
+  color: #26c2ae;
+  letter-spacing: -1px;
+}
+
+.right-column p {
+  position: relative;
+  height: 24px;
+  left: 30px;
+  top: 80px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.right-column button {
+  position: absolute;
+  width: 320px;
+  height: 48px;
+  left: 30px;
+  top: 300px;
+  border-radius: 5px;
+  background: #26c2ae;
+  border-radius: 5px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #00474b;
+}
