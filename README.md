@@ -1,2 +1,2 @@
 # tip_calculator
-calculadora de goretas.
+calculadora de gorjetas.
